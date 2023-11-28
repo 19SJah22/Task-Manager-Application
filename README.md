@@ -1,1 +1,1 @@
-# Task-Manager-Application
+I was tasked with creating a Java GUI-based Task Manager application that allows users to manage their tasks, categorize them, and store the information in a SQLite database. The application provides features such as adding tasks, marking tasks as completed, and viewing tasks based on categories.
